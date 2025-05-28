@@ -46,7 +46,7 @@
 ### Lib
 - 介绍一下 langchian
 - 介绍一下 autogen
-- 有没有用过大模型的网关
+- 有没有用过大模型的网关框架（litellm）
 - 为什么手搓agent，而不是用框架？
 
 ### Prompt
