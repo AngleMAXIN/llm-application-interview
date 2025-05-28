@@ -18,7 +18,7 @@
   - 游戏公司：基本上是LLM + AB test for 游戏策划；BI 分析；游戏社区客服助手；
   - toC: Agent 个人助手
   - toB: Agent for 解决方案
-  - other: 通用 Agent 平台；公司内容 AI 助手；Agent for 运维
+  - other: 通用 Agent 平台；公司内部AI助手、平台；Agent for 运维
     
 ### offer
 - 会有很多横向对比，如果你期望薪资比较高，对方说要在等等，基本上凉了。
