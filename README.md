@@ -93,12 +93,12 @@
 ### 八股
 - go的内存分配策略、GMP、GC
 - python 的内存分配策略、GC
-- redis 用过那些？mget 底层什么实现的？
+- redis 用过那些？mget 底层什么实现的？、zset怎么实现的？
 - mysql 索引怎么设计最好？数据库隔离级别？mvcc是怎么实现的？
 - 分布式锁是什么实现的？
 - kafka的 reblance 是什么？会产生那些问题？怎么保证数据不丢?
 - fastapi 设计原理？
-- go 中 nwt/http 如何让处理的粘包问题
+- go 中 net/http 如何处理的tcp粘包问题
 - http2 是什么？比http1.1有什么优势？
 - Linux 网络性能调优的方式
 - 如何定位Linux中的pid、端口号等等
